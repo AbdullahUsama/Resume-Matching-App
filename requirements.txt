@@ -2,3 +2,7 @@ streamlit
 torch
 sentence-transformers
 PyMuPDF
+umap-learn
+pandas
+numpy
+scikit-learn
