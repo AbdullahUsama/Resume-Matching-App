@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
+# Output files
+generated_resumes/
+*.pdf
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+*.pyc
