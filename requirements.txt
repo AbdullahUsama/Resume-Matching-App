@@ -6,3 +6,4 @@ umap-learn
 pandas
 numpy
 scikit-learn
+plotly
